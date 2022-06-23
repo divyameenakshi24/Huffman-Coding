@@ -74,6 +74,18 @@ print('----------------------')
 for (char, frequency) in freq:
     print('%-4r|%12s'%(char,huffmanCode[char]))
 ```
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 ## Output:
 
